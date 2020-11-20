@@ -14,7 +14,7 @@ Their Vision Statement : A world of enabled and connected little minds, building
 inspire students, help them innovate and let them integrate to build the next generation humankind.
 
 
-# Task-5-Exploratory-Data-Analysis--Sports-IPL
+# Task-5-Exploratory-Data-Analysis-Sports-IPL
 Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’
 ● As a sports analysts, find out the most successful teams, players and factors
 contributing win or loss of a team.
